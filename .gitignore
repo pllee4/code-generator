@@ -1,3 +1,9 @@
+# Vscode
+.vscode
+
+# generated_code folder
+/generated_code
+
 # Python cache
 __pycache__
 
